@@ -32,6 +32,13 @@ El análisis se ha desarrollado siguiendo las siguientes etapas:
 6. Análisis comparativo de Andalucía, Madrid y Cataluña.
 7. Cálculo de las variaciones acumuladas e interanuales.
 8. Visualización e interpretación de los resultados.
+## Visualización de los resultados
+
+### Evolución del Índice de Precios de Vivienda en España
+
+El siguiente gráfico muestra la evolución del IPV durante el periodo analizado y permite visualizar su tendencia a lo largo del tiempo.
+
+![Evolución del Índice de Precios de Vivienda en España](images/evolucion_ipv_espana.png)
 
 ## Principales resultados
 
